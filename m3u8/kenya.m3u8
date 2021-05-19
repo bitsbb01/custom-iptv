@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="CitizenTV Kenya" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
-https://www.youtube.com/c/kenyacitizentv/live
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
 https://stream-03.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xmRLVrEbPYAHOZrsRqUifEc)/dm/3/x74211t/s/live-2.m3u8
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
@@ -7,7 +7,7 @@ https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 https://stream-09.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhgnYzWutqcDXKTQnTZKl_K0)/dm/3/x7l3lxv/s/live-3.m3u8
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
-https://www.youtube.com/c/KTNKenya/live
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/KTNKenya/live
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
 https://stream-03.ix7.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88jOGQkwE9lxm_pkfjAcjmo8)/dm/3/x6shkab/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
