@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-name="CitizenTV Kenya" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
 plugin://plugin.video.youtube/play/?channel_id=UChBQgieUidXV1CmDxSdRm3g&live=1
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
-https://stream-03.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xmRLVrEbPYAHOZrsRqUifEc)/dm/3/x74211t/s/live-2.m3u8
+https://stream-11.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xktm4vfozNULtsDPOVgwbR0)/dm/3/x74211t/s/live-2.m3u8
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
 https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
