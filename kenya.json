@@ -1,0 +1,47 @@
+{
+	"Citizen TV": {
+		"logo": "https://i.imgur.com/n08ppI3.png",
+		"link": "plugin://plugin.video.youtube/play/?channel_id=UChBQgieUidXV1CmDxSdRm3g&live=1",
+		"id": "UChBQgieUidXV1CmDxSdRm3g"
+	},
+	"KBC": {
+		"logo": "https://i.imgur.com/rcz9MHU.png",
+		"link": "",
+		"id": "x74211t"
+	},
+	"K24": {
+		"logo": "https://i.imgur.com/qsR404z.png",
+		"link": "",
+		"id": "x6lvncs"
+	},
+	"KTN Home": {
+		"logo": "https://i.imgur.com/XsI7njG.jpg",
+		"link": "",
+		"id": "x7l3lxv"
+	},
+	"KTN News": {
+		"logo": "https://i.imgur.com/9nsQkNC.jpg",
+		"link": "plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1",
+		"id": "UCKVsdeoHExltrWMuK0hOWmg"
+	},
+	"NTV Kenya": {
+		"logo": "https://i.imgur.com/Z6TBfcY.png",
+		"link": "",
+		"id": "x6shkab"
+	},
+	"Ebru Kenya": {
+		"logo": "https://i.imgur.com/IykRifY.png",
+		"link": "",
+		"id": "x67n3k1"
+	},
+	"Spice fm": {
+		"logo": "https://i.imgur.com/3hfioy3.png",
+		"link": "",
+		"id": "x7eo9oe"
+	},
+	"Vibes": {
+		"logo": "https://i.imgur.com/UvsT89j.jpg",
+		"link": "",
+		"id": "x7eo6j"
+	}
+}
