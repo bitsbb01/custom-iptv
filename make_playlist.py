@@ -13,10 +13,7 @@ def get_data(url):
 def getDailyMotion(channel, code):
     try:
         print(f"getting {channel}")
-        res = requests.get(f'https://salvahe.co/headless?json=true&url=https://dai.ly/{code}')
-        # res = requests.get(
-        #     f"http://127.0.0.1:8000/headless?json=true&url=https://dai.ly/{code}"
-        # )
+        res = requests.get(f'https://linkastream.co/headless?json=true&url=https://dai.ly/{code}')
         if res.status_code != 200:
             print(f"could not get {channel}")
             return "offline"
