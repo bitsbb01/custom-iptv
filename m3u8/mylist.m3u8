@@ -1,21 +1,21 @@
 #EXTINF:-1 tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
 plugin://plugin.video.youtube/play/?channel_id=UChBQgieUidXV1CmDxSdRm3g&live=1
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
-https://stream-06.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xkvZNbYiO7Vl_5NwkCalRoU)/dm/3/x74211t/s/live-2.m3u8
+https://stream-02.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xmXr-HGQ6qDGqID7xPMgSt0)/dm/3/x74211t/s/live-2.m3u8
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-11.dc3.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDfTutMzoItmeD77eEf9Fkmg)/dm/3/x6lvncs/d/live-3.m3u8
+https://stream-11.dc3.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDUPIx3jnEx4aRLsqt4i_bqk)/dm/3/x6lvncs/d/live-3.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
 plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-offline
+https://stream-04.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88oRkgPcudEiDnxxVIZad6Qc)/dm/3/x6shkab/d/live-3.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
-offline
+https://stream-11.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL-r6ODdyYrHsTnQgt7w1-E)/dm/3/x67n3k1/s/live-2.m3u8
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-offline
+https://stream-02.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DhvD73sO4v4BaZDkupop1Xw)/dm/3/x7eo9oe/d/live-4.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-offline
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOB_B1sn1oh42lH7MF2gnoH5RIV8qrxyzW8fQPhU2b5zqnhjJXgthiDaBpSuaLDMpqg)/video/538/144/12441835_mp4_h264_aac.mp4
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -232,7 +232,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 tvg-id="101TVMalaga.es" tvg-name="101TV Malaga" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Spanish",101TV Malaga [News]
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-id="24TVCulturalesPeru.pe" tvg-name="24 TV Culturales (Peru)" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",24 TV Culturales (Peru) [Culture]
+#EXTINF:-1 tvg-id="123TV.ve" tvg-name="123 TV" tvg-country="VE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",123 TV
+http://177.52.221.214:8000/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-id="24TVCulturalesPeru.pe" tvg-name="24 TV Culturales (Peru)" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",24 TV Culturales (Peru) [Not 24/7] [Culture]
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Spanish",24/7 Canal de Noticias (720p) [News]
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
@@ -386,8 +388,6 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1 tvg-id="Canal9ComodoroRivadavia.ar" tvg-name="Canal 9 (Comodoro Rivadavia)" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Spanish",Canal 9 (Comodoro Rivadavia)
 https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-id="CanalAcequia.ar" tvg-name="Canal Acequia" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OTyIxNK.jpg" group-title="Spanish",Canal Acequia (720p)
-https://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 #EXTINF:-1 tvg-id="CanalAme47.do" tvg-name="Canal Amé 47" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="Spanish",Canal Amé 47 (720p)
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-id="CanalAntigua.gt" tvg-name="Canal Antigua" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.canalantigua.tv/wp-content/uploads/2020/02/272-x90-logo.png" group-title="Spanish",Canal Antigua
@@ -402,8 +402,6 @@ http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Spanish",Canal d [Local]
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
-#EXTINF:-1 tvg-id="CanalDoce.co" tvg-name="Canal Doce" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" group-title="Spanish",Canal Doce (Sincelejo) (720p)
-https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="Spanish",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canalI.ve" tvg-name="canal I" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mJXBuAZ.png" group-title="Spanish",Canal i (1080p)
@@ -426,8 +424,6 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucía" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="Spanish",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
-#EXTINF:-1 tvg-id="CanalUCR.cr" tvg-name="Canal UCR" tvg-country="CR" tvg-language="Spanish" tvg-logo="http://costarica.latv.info/canal-15-ucr-online.png" group-title="Spanish",Canal UCR (1080p)
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4televisio.es" tvg-name="Canal4 televisió" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320" group-title="Spanish",Canal4 televisió (1080p)
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Capital 21
@@ -488,8 +484,6 @@ http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
 #EXTINF:-1 tvg-id="COSMOTVHDESP.es" tvg-name="COSMO TV HD ESP" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Spanish",COSMO TV HD ESP
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
-#EXTINF:-1 tvg-id="CostadelSolTV.es" tvg-name="CostadelSol TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KxCQ02o.png" group-title="Spanish",CostadelSol TV
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-id="CPEtv.ar" tvg-name="CPEtv" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Spanish",CPEtv (720p)
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 #EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-name="CR Television (Moyobamba)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Spanish",CR Television (Moyobamba) [Not 24/7] [Local]
@@ -684,7 +678,7 @@ http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
 https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-name="Master TV (Tarapoto)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" group-title="Spanish",Master TV (Tarapoto) [Local]
 https://tv.oyotunstream.com:1936/mastertv/mastertv/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaTV.pe" tvg-name="Mega TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/MTVAQP/picture?width=320&height=320" group-title="Spanish",Mega TV (360p) [Local]
+#EXTINF:-1 tvg-id="MegaTV.pe" tvg-name="Mega TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/MTVAQP/picture?width=320&height=320" group-title="Spanish",Mega TV  (360p) [Not 24/7] [Local]
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.bo" tvg-name="Mega TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j7opA5I.png" group-title="Spanish",Mega TV (Yacuiba) (720p)
 https://stmv.panel.mivideo.pro/rtv/rtv/chunklist_w849315537.m3u8
@@ -740,8 +734,6 @@ http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
 https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Spanish",Net TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-name="Nex TV Canal 21" tvg-country="PA" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Nex TV Canal 21
-http://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
 #EXTINF:-1 tvg-id="NICKHD.us" tvg-name="NICK HD" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.argentino.com.ar/images/2013/0518/776750-nickelodeon-senal-de-cable-infantil-20130518113628521.jpg" group-title="Spanish",Nick (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="NickJrClubPlutoTV.us" tvg-name="Nick Jr. Club (Pluto TV)" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Spanish",Nick Jr. Club (Pluto TV)
@@ -760,8 +752,6 @@ https://7.innovatestream.pe:19360/omega/omega.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtjb-tdt2.m3u8
 #EXTINF:-1 tvg-id="XHTJBTDT.mx" tvg-name="Once TV" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48379.png" group-title="Spanish",Once TV (XHTJB-TDT)
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtjb-tdt.m3u8
-#EXTINF:-1 tvg-id="OndaAlgecirasTelevision.es" tvg-name="Onda Algeciras Televisión" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320" group-title="Spanish",Onda Algeciras Televisión
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaMadrid.es" tvg-name="Onda Madrid" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=320&height=320" group-title="Spanish",Onda Madrid (360p)
 http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
 #EXTINF:-1 tvg-id="OndaMadrid.es" tvg-name="Onda Madrid" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gh5VQtG.jpg" group-title="Spanish",Onda Madrid
@@ -794,8 +784,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaKids.es" tvg-name="Planeta Kids" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CMRkI5N.jpg" group-title="Spanish",Planeta Kids (720p)
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-name="Planeta TV (Moyobamba)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" group-title="Spanish",Planeta TV (Moyobamba) [Local]
-https://media2.cdnlayer.biz:8081/8018/index.m3u8
 #EXTINF:-1 tvg-id="AvidamodernadeRocko.us" tvg-name="A vida moderna de Rocko" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Spanish",Pluto TV A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Spanish",Pluto TV Action
@@ -940,8 +928,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b9331210007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="Losnuevosdetectives.us" tvg-name="Los nuevos detectives" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Spanish",Pluto TV Los nuevos detectives
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="LosTresChiflados.us" tvg-name="Los Tres Chiflados" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="Spanish",Pluto TV Los Tres Chiflados
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-name="Louis La Brocante" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="Spanish",Pluto TV Louis La Brocante
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Loupe.us" tvg-name="Loupe" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" group-title="Spanish",Pluto TV Loupe
@@ -1008,8 +994,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dc590
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5f2acdab16f5b3000721ae2c" tvg-name="Oh My Pet" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="Spanish",Pluto TV Oh My Pet
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="OsTresPatetas.us" tvg-name="Os Três Patetas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="Spanish",Pluto TV Os Três Patetas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PaisajesporStingray.us" tvg-name="Paisajes por Stingray" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Spanish",Pluto TV Paisajes por Stingray (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us" tvg-name="Pluto TV Peleas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Spanish",Pluto TV Peleas
@@ -1080,12 +1064,12 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="Primavera15RadiotelevisionMoquegua.pe" tvg-name="Primavera 15 Radiotelevisión (Moquegua)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" group-title="Spanish",Primavera 15 Radiotelevisión (Moquegua) [Local]
 https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
-#EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="Promar TV" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iQtrqmc.jpg" group-title="Spanish",Promar TV (432p)
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="PuraPalabra.pr" tvg-name="Pura Palabra" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i1.wp.com/unored.tv/wp-content/uploads/2016/03/Pura-Palabra-TV.jpg" group-title="Spanish",Pura Palabra (720p)
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 tvg-id="QuattroTV.pe" tvg-name="Quattro TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="Spanish",Quattro TV [Local]
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
+#EXTINF:-1 tvg-id="QuinceUCR.cr" tvg-name="Quince UCR (Universidad de Costa Rica)" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hRnPcP.png" group-title="Spanish",Quince UCR (Universidad de Costa Rica)
+http://163.178.170.127:1935/quinceucr/live.stream_720p/chunklist_w1801749930.m3u8
 #EXTINF:-1 tvg-id="RadioMaxima949FMSB.cl" tvg-name="Radio Maxima 94.9 FM SB" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GQWiS9Q.png" group-title="Spanish",Radio Maxima 94.9 FM SB (720p)
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Spanish",Radio San Borja TV [Not 24/7] [Music]
@@ -1104,14 +1088,10 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVOrienteYurimaguas.pe" tvg-name="RadioTV Oriente (Yurimaguas)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/www.roriente.org/picture?width=320&height=320" group-title="Spanish",RadioTV Oriente (Yurimaguas) [Not 24/7] [Local]
 https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="XHRCG-TDT.mx" tvg-name="RCG TV-1 (XHRCG-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",RCG TV-1 (XHRCG-TDT) (360p)
-https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV-2" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Spanish",RCG TV-2 (360p)
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV3.mx" tvg-name="RCG TV-3" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",RCG TV-3 (360p)
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNHD.co" tvg-name="RCN HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Spanish",RCN HD
-http://saypopular.com:25461/oscar/20gar/52262
 #EXTINF:-1 tvg-id="ReadyTV.do" tvg-name="Ready TV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QT78nTj.png" group-title="Spanish",Ready TV [Not 24/7]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Real Madrid TV [Sports]
@@ -1150,8 +1130,6 @@ https://tvdatta.com:3952/live/rwtelevisionlive.m3u8
 https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8
 #EXTINF:-1 tvg-id="SercanoTV.hn" tvg-name="Sercano TV" tvg-country="HN" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Sercano TV (720p)
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SeñalColombia.co" tvg-name="Señal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Spanish",Señal Colombia
-http://saypopular.com:25461/oscar/20gar/52261
 #EXTINF:-1 tvg-id="ShalomTV.us" tvg-name="Shalom TV" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://i3.wp.com/unored.tv/wp-content/uploads/2018/10/Shalom-TV-logo-oficial.jpg" group-title="Spanish",Shalom TV [Religious]
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8
 #EXTINF:-1 tvg-id="SiTV.do" tvg-name="SiTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="Spanish",SiTV

@@ -1,2 +1,4 @@
 .venv
 logos/
+make_playlist_serverside.py
+*.log
