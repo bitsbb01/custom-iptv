@@ -1,0 +1,4 @@
+finished making English channels
+finished making Spanish channels
+getting KBC
+HTTPSConnectionPool(host='linkastream.co', port=443): Max retries exceeded with url: /headless?json=true&url=https://dai.ly/x74211t (Caused by SSLError(SSLCertVerificationError("hostname 'linkastream.co' doesn't match either of 'autoconfig.tedokello.co', 'mail.tedokello.co'")))

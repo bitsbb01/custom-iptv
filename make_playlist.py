@@ -35,6 +35,7 @@ def make_eng():
             english_channels.append(channel)
     with open("m3u8/english.m3u8", "w", encoding="utf-8") as eng:
         eng.write("\n".join(english_channels))
+    print('finished making English channels')
 
 
 def make_esp():
@@ -57,6 +58,7 @@ def make_esp():
 
     with open("m3u8/spanish.m3u8", "w", encoding="utf-8") as _spa:
         _spa.write("\n".join(spanish_channels))
+    print('finished making Spanish channels')
 
 
 def make_ke():
@@ -72,6 +74,7 @@ def make_ke():
             link = f'{c_info["link"]}\n'
             m3u.write(extinf)
             m3u.write(link)
+    print('finished making Kenyan channels')
 
 
 def mergefiles(files, outfile):
