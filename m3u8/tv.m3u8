@@ -14,8 +14,12 @@ https://stream-11.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88vvm_Aj1UQCsUX_oj-
 https://stream-08.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDERZWth5LM1qo3INNbB0ktY)/dm/3/x67n3k1/s/live-2.m3u8
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
 https://stream-01.dc3.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DpJao38AuFbiU4b1Q5nZyiY)/dm/3/x7eo9oe/d/live-4.m3u8
-#EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Vibes
+#EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOPNwdSL_qvVCIHFVYIhxQzdnaN6DSSDV7F0FJwcKLrxH9gvAWIMJlEmnj-zvCX7vvA)/video/538/144/12441835_mp4_h264_aac.mp4
+#EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
 https://stream-04.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprsI3LYuzrGBAUN6VNQN4gs)/dm/3/x81qb1p/s/live-4.m3u8
+#EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
+https://stream-05.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6yUWS2n1O0dlnOli5nN1Qds)/dm/3/x7sxle3/d/live-4.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -228,34 +232,34 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Cult Films" tvg-logo="https://i.imgur.com/kD3SkoC.png" group-title="Movies (EN)",Pluto TV Cult Films
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Penthouse Gold HD
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Penthouse Gold HD
 http://yh6z.top:8000/sa73/32d6f56dfd/239
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Penthouse Quickies HD
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Penthouse Quickies HD
 http://yh6z.top:8000/sa73/32d6f56dfd/313
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Hustler HD (18+)
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Hustler HD (18+)
 http://yh6z.top:8000/sa73/32d6f56dfd/220
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Blue Hustler HD
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Blue Hustler HD
 http://yh6z.top:8000/sa73/32d6f56dfd/230
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Prıvate TV HD (18+)
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Prıvate TV HD (18+)
 http://yh6z.top:8000/sa73/32d6f56dfd/222
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Dorcel HD
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Dorcel HD
 http://yh6z.top:8000/sa73/32d6f56dfd/249
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",SEX ATION
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",SEX ATION
 http://yh6z.top:8000/sa73/32d6f56dfd/236
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",PLAYBOY TV
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",PLAYBOY TV
 http://yh6z.top:8000/sa73/32d6f56dfd/56
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Emanuelle
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Emanuelle
 http://yh6z.top:8000/sa73/32d6f56dfd/237
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",XXL (18+)
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",XXL (18+)
 http://yh6z.top:8000/sa73/32d6f56dfd/244
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",X-MO
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",X-MO
 http://yh6z.top:8000/sa73/32d6f56dfd/838
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Milf TV
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Milf TV
 http://yh6z.top:8000/sa73/32d6f56dfd/1122
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Oldtimer
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Oldtimer
 http://yh6z.top:8000/sa73/32d6f56dfd/1123
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Шалун TV
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Шалун TV
 http://yh6z.top:8000/sa73/32d6f56dfd/1124
-#EXTINF:-1 group-title="CINE  +18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Russian Night
+#EXTINF:-1 group-title="NSFW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg/800px-Australian_Classification_Restricted_18%2B_%28X_18%2B%29.svg.png",Russian Night
 http://yh6z.top:8000/sa73/32d6f56dfd/1126
 
