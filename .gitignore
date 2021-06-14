@@ -1,3 +1,4 @@
+*__pycache__/
 .venv
 logos/
 make_playlist_serverside.py

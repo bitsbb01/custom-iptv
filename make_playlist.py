@@ -22,6 +22,19 @@ def getDailyMotion(channel, code):
         print(e)
         exit(1)
 
+def make_nsfw():
+    url = "https://github.com/angel200881/chann/raw/main/xxx.m3u8"
+    data = get_data(url)
+    nsfw_channels = []
+    for line in data:
+        if "EXTINF" in line:
+            channel_link = data[data.index(line) + 1]
+            line = line.replace('CINE  +18','NSFW')
+            channel = f"{line}\n{channel_link}"
+            nsfw_channels.append(channel)
+    with open("m3u8/NSFW.m3u8", "w", encoding="utf-8") as nsfw:
+        nsfw.write("\n".join(nsfw_channels))
+    print('finished making nsfw channels')
 
 def make_eng():
     url = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
@@ -90,7 +103,8 @@ if __name__ == "__main__":
     make_eng()
     make_esp()
     make_ke()
-    filenames = ["kenya", "fashiontv", "english", "spanish"]
+    make_nsfw()
+    filenames = ["kenya", "fashiontv", "english", "spanish", "NSFW"]
     mergefiles(filenames, "m3u8/mylist.m3u8")
     filenames.remove("spanish")
     mergefiles(filenames, "m3u8/tv.m3u8")
