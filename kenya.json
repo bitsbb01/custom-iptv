@@ -1,7 +1,7 @@
 {
 	"Citizen TV": {
 		"logo": "https://i.imgur.com/n08ppI3.png",
-		"link": "plugin://plugin.video.youtube/play/?channel_id=UChBQgieUidXV1CmDxSdRm3g&live=1",
+		"link": "https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live",
 		"id": "UChBQgieUidXV1CmDxSdRm3g"
 	},
 	"KBC": {
