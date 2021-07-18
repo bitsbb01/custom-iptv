@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
 https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
-offline
+https://stream-08.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtgnI6tdXHPrXgp-bNWF_I0)/dm/3/x74211t/s/live-1.m3u8
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-02.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDWQqm6daSmbC_E5RGXsFNU4)/dm/3/x6lvncs/d/live-3.m3u8
+https://stream-05.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDWQqm6daSmbC_E5RGXsFNU4)/dm/3/x6lvncs/d/live-3.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
@@ -13,13 +13,13 @@ offline
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-offline
+https://stream-06.dc3.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dmewy2TsNrR_VzoYTfxcR6I)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOC4lwX2RkmTCXzCxbT3yoZcCGtVTeFwn-lKTQHmS-c_ix2-idMxfl87a-CRqSZcMQQ)/video/538/144/12441835_mp4_h264_aac.mp4
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOGf4L2sf_xpPHaPTzsXW1UKyMFydovW82GZXljQHV6js1i0O3tnaSwrtC6lu6jL4IQ)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-https://stream-01.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprB0UsX-6SPLsUMgPNssYYw)/dm/3/x81qb1p/s/live-4.m3u8
+https://stream-10.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprB0UsX-6SPLsUMgPNssYYw)/dm/3/x81qb1p/s/live-4.m3u8
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-03.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6_6V-bKPRyi89HNUUsrme-8)/dm/3/x7sxle3/d/live-1.m3u8
+https://stream-03.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6_6V-bKPRyi89HNUUsrme-8)/dm/3/x7sxle3/d/live-1.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -452,6 +452,8 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNEspanol.us" tvg-name="CBN Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="Spanish",CBN Español (1080p) [Religious]
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="CBNEspanol.us" tvg-name="CBN Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="Spanish",CBN Español [Religious]
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 #EXTINF:-1 tvg-id="CCIChannel.hn" tvg-name="CCI Channel" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wHQOLAL.png" group-title="Spanish",CCI Channel (720p)
 http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
 #EXTINF:-1 tvg-id="CCIChannel.hn" tvg-name="CCI Channel" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://www.ccichannel.tv/wp-content/uploads/2018/01/CCICHANNELlogo.png" group-title="Spanish",CCI Channel (720p)
@@ -550,7 +552,7 @@ https://streaming.elche7tv.es/hls/canal2.m3u8
 http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
 #EXTINF:-1 tvg-id="ESNETV.es" tvg-name="ESNE TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="Spanish",ESNE TV (1080p) [Religious]
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:-1 tvg-id="EsperanzaTV.us" tvg-name="Esperanza TV" tvg-country="US" tvg-language="Spanish" tvg-logo="http://iptvchile.xyz/Logos/TeVe/esperanza%20tv.png" group-title="Spanish",Esperanza TV (480p)
+#EXTINF:-1 tvg-id="EsperanzaTV.us" tvg-name="Esperanza TV" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U5vTVsL.jpg" group-title="Spanish",Esperanza TV (480p) [Religious]
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Esport3 (1080p) [Sports]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
@@ -560,16 +562,10 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
 https://5b38ce71f1f00.streamlock.net/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="Spanish",Estrella News [News]
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-country="US" tvg-language="Spanish" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Estrella_News_190X190.png?raw=true" group-title="Spanish",Estrella News [News]
-https://estrellanews-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellanews-roku/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-country="US" tvg-language="Spanish" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Spanish",Estrella News [News]
-https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNewsSP.us" tvg-name="Estrella News | SP" tvg-country="US" tvg-language="Spanish" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="Spanish",Estrella News | SP [News]
+#EXTINF:-1 tvg-id="EstrellaNewsSP.us" tvg-name="Estrella News | SP" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="Spanish",Estrella News | SP [News]
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
-#EXTINF:-1 tvg-id="475630" tvg-name="Estrella_TV" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="Spanish",Estrella TV [Entertainment]
-https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4PiLKrm.png" group-title="Spanish",Estrella TV [Entertainment]
-https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8
+https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-name="ETB 1" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KeBXBJE.png" group-title="Spanish",ETB 1 (720p) [Local]
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Spanish",Euronews en Español (720p) [News]
@@ -636,6 +632,10 @@ http://78.41.83.88:8880/hls/tvixa.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JNETV.pe" tvg-name="JNE TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JNE.Peru/picture?width=320&height=320" group-title="Spanish",JNE TV [Not 24/7] [Legislative]
 https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
+#EXTINF:-1 tvg-id="Juntos.us" tvg-name="Juntos" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Juntos
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us" tvg-name="Juventud Renovada en el Espiritu Santo" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Brfh2M.png" group-title="Spanish",Juventud Renovada en el Espiritu Santo [Religious]
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibeña" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="Spanish",Karibeña [Music]
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Spanish",La 2 (720p) [Documentary]
@@ -678,7 +678,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="LogosTV.es" tvg-name="Logos TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="Spanish",Logos TV (720p)
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 tvg-id="LoveNatureEspanol.us" tvg-name="Love Nature Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="Spanish",Love Nature Español
+#EXTINF:-1 tvg-id="LoveNatureEspanol.us" tvg-name="Love Nature Español" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LXpqmgn.jpg" group-title="Spanish",Love Nature Español
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-id="LVM.do" tvg-name="LVM" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="Spanish",LVM (480p)
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
@@ -710,7 +710,7 @@ https://ed1ov.live.opencaster.com/jcpstream_hd720/index.m3u8
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-id="Moods.fr" tvg-name="Moods" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="Spanish",Moods (720p)
 https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieMex.us" tvg-name="Movie Mex" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Movie Mex [Movies]
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-name="Moovimex" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Moovimex [Movies]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLiveHD.us" tvg-name="MTV Live HD" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/92/f9/p2ALSiHp_o.jpg" group-title="Spanish",MTV Live HD [Music]
 http://cdnx1.plusx.tv:8880/229/mono.m3u8?token=dawids162751365422222
