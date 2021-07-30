@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
 https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
-https://stream-03.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqvA75TrqeCrpjmKHaiGGmE)/dm/3/x74211t/s/live-1.m3u8
+https://stream-04.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqvA75TrqeCrpjmKHaiGGmE)/dm/3/x74211t/s/live-1.m3u8
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-03.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDWHBL_ttsmaXoZP6yBY5QMA)/dm/3/x6lvncs/d/live-1.m3u8
+https://stream-08.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDYLhU8Ga-pKsFvVudAPzWiY)/dm/3/x6lvncs/d/live-1.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
@@ -13,13 +13,13 @@ offline
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-offline
+https://stream-10.dc3.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DhsQQmqIcmOzHulk20Bz5Yo)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-offline
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOAKzqCBLZoGIDDCgZBaJoyOZ6v8YWYDntpgwgYFlWDT_5ZJ1jmK6m_qMBPUvfvvESA)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
 offline
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-offline
+https://stream-08.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6yUMqcANNTmUdTBxWtGpQac)/dm/3/x7sxle3/d/live-1.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -990,10 +990,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVMisteriossinResolver.us" tvg-name="Pluto TV Misterios sin Resolver" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Spanish",Pluto TV Misterios sin Resolver [Series]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVMTV.us" tvg-name="Pluto TV MTV" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Spanish",Pluto TV MTV [Music]
+#EXTINF:-1 tvg-id="PlutoTVMTV.us" tvg-name="Pluto TV MTV" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Spanish",Pluto TV MTV [Music]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVMTV.us" tvg-name="Pluto TV MTV" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="Spanish",Pluto TV MTV [Music]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PlutoTVMTVAnimaciones.us" tvg-name="Pluto TV MTV Animaciones" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="Spanish",Pluto TV MTV Animaciones [Series]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVMTVBiggestPop.us" tvg-name="Pluto TV MTV Biggest Pop" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Spanish",Pluto TV MTV Biggest Pop (720p) [Series]
@@ -1176,8 +1174,6 @@ https://rtvc-live1-rm.flumotion.com/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="RWTelevisionTarapoto.pe" tvg-name="RW Televisión (Tarapoto)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/rwtelevision/picture?width=320&height=320" group-title="Spanish",RW Televisión (Tarapoto) [Not 24/7] [Local]
 https://tvdatta.com:3952/live/rwtelevisionlive.m3u8
-#EXTINF:-1 tvg-id="SBN.us" tvg-name="SBN" tvg-country="US" tvg-language="Spanish" tvg-logo="http://sonlifetv.com/images/logo.png" group-title="Spanish",SBN [Religious]
-https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/master.m3u8
 #EXTINF:-1 tvg-id="SercanoTV.hn" tvg-name="Sercano TV" tvg-country="HN" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Sercano TV (720p)
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="Spanish",Señal Colombia [General]
@@ -1192,6 +1188,8 @@ http://186.15.50.30:8080/hls/smotv.m3u8
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="SomosTelevisionChimbote.pe" tvg-name="Somos Televisión (Chimbote)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/somostelevision/picture?width=320&height=320" group-title="Spanish",Somos Televisión (Chimbote) [Not 24/7] [Local]
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.pscp.tv/somostv/1YqKDeErkvOGV
+#EXTINF:-1 tvg-id="SBN.us" tvg-name="SonLife Broadcasting (SBN)" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h9Gxavk.png" group-title="Spanish",SonLife Broadcasting (SBN) [Religious]
+https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/master.m3u8
 #EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-name="Sony Canal Comedias" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E7gDhBW.png" group-title="Spanish",Sony Canal Comedias [Comedy]
 https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="Sony Canal Novelas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="Spanish",Sony Canal Novelas [Movies]
