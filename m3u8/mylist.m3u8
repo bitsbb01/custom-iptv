@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
 https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
-https://stream-05.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xqvA75TrqeCrpjmKHaiGGmE)/dm/3/x74211t/s/live-1.m3u8
+offline
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-06.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDYLhU8Ga-pKsFvVudAPzWiY)/dm/3/x6lvncs/d/live-1.m3u8
+offline
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
@@ -13,13 +13,13 @@ offline
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-offline
+https://stream-09.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DhZxfvpOaZg4Ft8fn_2fSqs)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-offline
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOPuvCM2AA8xOV5-vkuDJjsfap5Y6q2oxcj4XrugKSLQgGfNwQD2UgIGbsR6AnfPHfg)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-offline
+https://stream-06.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgi5SlZnZZGufsLhUOj8MEk)/dm/3/x81qb1p/s/live-4.m3u8
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-offline
+https://stream-03.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6yUMqcANNTmUdTBxWtGpQac)/dm/3/x7sxle3/d/live-1.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -272,8 +272,6 @@ https://dcunilive93-lh.akamaihd.net/i/dclive_1@835800/master.m3u8
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835792/master.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",88 Stereo (486p)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="AELatinoamerica.us" tvg-name="A&E Latinoamérica" tvg-country="US" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/t85l2I1.png" group-title="Spanish",A&E Latinoamérica [General]
-http://190.61.37.173:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="XHTITTDT.mx" tvg-name="A+ TV" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",A+ TV (XHTIT-TDT) (432p)
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Spanish",ABC TV (720p)
@@ -299,7 +297,7 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="Spanish",Aliento Vision [Religious]
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC Latinoamérica" tvg-country="US" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Spanish",AMC Latinoamérica
-http://190.61.37.173:8000/play/a01p/index.m3u8
+http://209.91.213.10:8088/play/a013
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",América TV (720p) [Local]
 https://iptv-all.lanesh4d0w.codes/m3u8/america_hls.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",América TV [Local]
@@ -312,8 +310,6 @@ http://rtmp.info:8081/anexiontv/envivo/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/antaresTvRadioOficial/picture?width=320&height=320" group-title="Spanish",Antares Televisión (720p) [Local]
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Antena 3
-http://190.61.37.173:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-name="Aragón TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Spanish",Aragón TV (720p)
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinísima Satelital" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="Spanish",Argentinísima Satelital
@@ -322,30 +318,18 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="ATB.bo" tvg-name="ATB" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oszItYJ.jpg" group-title="Spanish",ATB (360p) [Not 24/7]
 https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Atreseries
-http://186.101.216.211:8000/play/a0dv
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Atreseries
-http://190.61.37.173:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ATV.co" tvg-name="ATV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="Spanish",ATV [News]
+#EXTINF:-1 tvg-id="ATV.co" tvg-name="ATV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="Spanish",ATV [Not 24/7] [News]
 https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",ATV (Lima) [Entertainment]
-http://186.101.216.211:8000/play/a073
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-name="Avivamiento TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Spanish",Avivamiento TV (720p) [Religious]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN Latinoamérica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Spanish",AXN Latinoamérica (576p) [Entertainment]
-http://190.61.37.173:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN Latinoamérica" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Spanish",AXN Latinoamérica (1080p) [Entertainment]
-http://190.61.37.173:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazón" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_corazon_mx.png" group-title="Spanish",Az Corazón
-http://190.61.37.173:8000/play/a01e/index.m3u8
+http://209.91.213.10:8088/play/a011
 #EXTINF:-1 tvg-id="XHTITTDT.mx" tvg-name="Azteca 7" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="Spanish",Azteca 7 (XHTIT-TDT) (1080p) [Local]
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-id="XHASTDT.mx" tvg-name="Azteca America" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="Spanish",Azteca America (XHAS-TDT) (1080p) [Local]
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-name="Azteca Uno" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Spanish",Azteca Uno (XHJK-TDT) (1080p) [Local]
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-country="UK" tvg-language="Spanish;English" tvg-logo="" group-title="Spanish",Baby TV [Kids]
-http://190.61.37.173:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Spanish",Babyfirst [Family]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barça TV" tvg-country="ES" tvg-language="Spanish;Catalan" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Spanish",Barça TV [Sports]
@@ -392,8 +376,6 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-name="Canal 12 - Televisa" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="Spanish",Canal 12 - Televisa (XETW-TDT) (1080p) [Local]
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Canal 13
-http://186.101.216.211:8000/play/ca13
 #EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="Spanish",Canal 2 [Not 24/7] [General]
 https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
 #EXTINF:-1 tvg-id="Canal21.cl" tvg-name="Canal 21" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="Spanish",Canal 21 (720p) [Not 24/7]
@@ -458,8 +440,6 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucía" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="Spanish",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
-#EXTINF:-1 tvg-id="Canal4televisio.es" tvg-name="Canal4 televisió" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320" group-title="Spanish",Canal4 televisió (1080p)
-http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvg-id="canalLUZ.ar" tvg-name="canalLUZ" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://www.canalluz.org/assets/images/logo-2020-250x79.png" group-title="Spanish",canalLUZ [Religious]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela TV" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="Spanish",Canela TV (720p)
@@ -478,11 +458,7 @@ https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1 tvg-id="CDMTV.pr" tvg-name="CDM TV" tvg-country="PR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",CDM TV (480p)
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
-#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",CDN
-http://190.61.37.173:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",CDN Deportes
-http://190.61.37.173:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="CentralTVChosica.pe" tvg-name="Central TV (Chosica)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="Spanish",Central TV (Chosica) [Not 24/7] [Local]
+#EXTINF:-1 tvg-id="CentralTVChosica.pe" tvg-name="Central TV (Chosica)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" group-title="Spanish",Central TV (Chosica) (720p) [Not 24/7] [Local]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN1.cn" tvg-name="CGTN 1" tvg-country="CN" tvg-language="Spanish" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="Spanish",CGTN 1
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -490,7 +466,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Spanish",Chacra TV (480p)
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ChavoTV.co" tvg-name="Chavo TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/800px-El_Chavo_%28simple_logo%29.svg.png" group-title="Spanish",Chavo TV (720p) [Series]
+#EXTINF:-1 tvg-id="ChavoTV.co" tvg-name="Chavo TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/800px-El_Chavo_%28simple_logo%29.svg.png" group-title="Spanish",Chavo TV (480p) [Series]
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-name="Chicos IPe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Spanish",Chicos IPe [Not 24/7] [Family]
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -498,20 +474,16 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-name="Cine Sureño" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="Spanish",Cine Sureño (1080p)
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-roku/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CineCanal.us" tvg-name="CineCanal (Bogotà)" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/63aLvAU.png" group-title="Spanish",CineCanal (Bogotà)
-http://186.101.216.211:8000/play/a06e
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="Spanish" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Spanish",Cinemax [Movies]
 http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?un=rommel07&tm=1626349319&sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb
 #EXTINF:-1 tvg-id="CinePride.us" tvg-name="CinePride" tvg-country="US" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="Spanish",CinePride (720p) [Lifestyle]
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Resistencia" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Spanish",Ciudad TV Resistencia (Chaco) (720p) [Local]
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="Claro Cinema" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Claro Cinema (576p) [Movies]
-http://209.91.213.10:8099/play/a00v
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="Spanish",CNN Chile (720p) [News]
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="CNN Espanol" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="Spanish",CNN Español [News]
-http://186.101.216.211:8000/play/a01u
+http://209.91.213.10:8088/play/a014
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Colosal TV (720p)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Spanish",Comedy Movies (720p) [Movies]
@@ -626,7 +598,7 @@ https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Spanish",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" group-title="Spanish",Extrema TV (480p)
+#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" group-title="Spanish",Extrema TV (720p)
 https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FamiliChannel.co" tvg-name="Famili Channel" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" group-title="Spanish",Famili Channel (720p) [Family]
 https://rtmp02.portalexpress.es/thefchanel/thefchanel/playlist.m3u8
@@ -692,7 +664,7 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
 #EXTINF:-1 tvg-id="Juntos.us" tvg-name="Juntos" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UbomgHT.png" group-title="Spanish",Juntos (1080p) [Series]
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-roku/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us" tvg-name="Juventud Renovada en el Espiritu Santo" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Brfh2M.png" group-title="Spanish",Juventud Renovada en el Espiritu Santo (720p) [Religious]
+#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us" tvg-name="Juventud Renovada en el Espiritu Santo" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Brfh2M.png" group-title="Spanish",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7] [Religious]
 http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibeña" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" group-title="Spanish",Karibeña [Music]
 https://cu.onliv3.com/livevd/user1.m3u8
@@ -710,10 +682,6 @@ https://pull12.atresmedia.com/lavoz/master.m3u8
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="LA7.es" tvg-name="LA7" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.rtvcyl.es/entorno/rtvcyl.png" group-title="Spanish",LA7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot Televisión" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="Spanish",Lancelot Televisión (360p)
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas Latinoamerica" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Las Estrellas Latinoamerica (Colombia)
-http://186.101.216.211:8000/play/a02y
 #EXTINF:-1 tvg-id="LATAMTV.tv" tvg-name="LATAM TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="Spanish",LATAM TV (Bogotà) (540p)
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido Music" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="Spanish",Latido Music (1080p) [Music]
@@ -736,7 +704,7 @@ https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
 https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 #EXTINF:-1 tvg-id="LIMTV.py" tvg-name="LIM TV" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/limtvok/picture?width=300&height=300" group-title="Spanish",LIM TV [Not 24/7]
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Spanish",Locomotion TV (480p) [Animation]
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Spanish",Locomotion TV (480p) [Not 24/7] [Animation]
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Spanish",Locomotion TV [Animation]
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -850,7 +818,7 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UCgR0st4ZLAB
 https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="Spanish",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-name="Perú Channel" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Spanish",Perú Channel (720p)
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-name="Perú Channel" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Spanish",Perú Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1 tvg-id="PH.do" tvg-name="PH" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Spanish",PH (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
@@ -1152,7 +1120,7 @@ https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 #EXTINF:-1 tvg-id="RadioTVOrienteYurimaguas.pe" tvg-name="RadioTV Oriente (Yurimaguas)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/www.roriente.org/picture?width=320&height=320" group-title="Spanish",RadioTV Oriente (Yurimaguas) (720p) [Not 24/7] [Local]
 https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV-2" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Spanish",RCG TV-2 (360p)
+#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV-2" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Spanish",RCG TV-2 (360p) [Not 24/7]
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-id="ReadyTV.do" tvg-name="Ready TV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QT78nTj.png" group-title="Spanish",Ready TV [Not 24/7]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
@@ -1370,7 +1338,7 @@ https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
 https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-name="TribunaTV" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="Spanish",TribunaTV (614p)
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TropicalTVPuertoMaldonado.pe" tvg-name="Tropical TV (Puerto Maldonado)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotropical105.7fm/picture?width=320&height=320" group-title="Spanish",Tropical TV (Puerto Maldonado) [Not 24/7] [Local]
+#EXTINF:-1 tvg-id="TropicalTVPuertoMaldonado.pe" tvg-name="Tropical TV (Puerto Maldonado)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotropical105.7fm/picture?width=320&height=320" group-title="Spanish",Tropical TV (Puerto Maldonado) (360p) [Not 24/7] [Local]
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Turbo Mix Radio TV (480p) [Music]
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
@@ -1416,8 +1384,8 @@ http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="TVMÁS (XHGV-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Spanish",TVMÁS (XHGV-TDT)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
-#EXTINF:-1 tvg-id="TVOSanVicente.cl" tvg-name="TVO San Vicente" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fvnO1X9.png" group-title="Spanish",TVO San Vicente
-https://unlimited2-cl-movistar.dps.live/tvo/tvo.smil/tvo/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="TVOSanVicente.cl" tvg-name="TVO San Vicente" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fvnO1X9.png" group-title="Spanish",TVO San Vicente (720p) [Not 24/7]
+https://unlimited2-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="Spanish",TVS (540p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU.bo" tvg-name="TVU" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="Spanish",TVU (276p)
@@ -1442,8 +1410,6 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-id="UranioTVYurimaguas.pe" tvg-name="Uranio TV (Yurimaguas)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/uraniotv/picture?width=320&height=320" group-title="Spanish",Uranio TV (Yurimaguas) (720p) [Local]
 https://live.siete.us/uraniotv/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="UrbancrisTV.do" tvg-name="UrbancrisTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-rijz_M9Mfjg/XodzU4USyHI/AAAAAAAAAkQ/86J2L7EgOvw71sXXbTH5_cAKf9CgXEnEwCLcBGAsYHQ/s320/UrbancrisTV.png" group-title="Spanish",UrbancrisTV (720p)
-https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8
 #EXTINF:-1 tvg-id="UTVSanClemente.cl" tvg-name="UTV San Clemente" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.utvsanclemente.cl/img/logo-utv-sc.png" group-title="Spanish",UTV San Clemente (720p)
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="Spanish",Vallevision (720p)
