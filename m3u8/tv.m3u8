@@ -13,13 +13,13 @@ offline
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-https://stream-09.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DhZxfvpOaZg4Ft8fn_2fSqs)/dm/3/x7eo9oe/d/live-2.m3u8
+offline
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOPuvCM2AA8xOV5-vkuDJjsfap5Y6q2oxcj4XrugKSLQgGfNwQD2UgIGbsR6AnfPHfg)/video/538/144/12441835_mp4_h264_aac.mp4
+offline
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-https://stream-06.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgi5SlZnZZGufsLhUOj8MEk)/dm/3/x81qb1p/s/live-4.m3u8
+offline
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-03.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6yUMqcANNTmUdTBxWtGpQac)/dm/3/x7sxle3/d/live-1.m3u8
+offline
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
