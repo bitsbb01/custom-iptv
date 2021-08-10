@@ -1,22 +1,2 @@
 #EXTINF:-1 tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/n08ppI3.png" group-title="Kenya",Citizen TV
 https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
-#EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
-offline
-#EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-offline
-#EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
-offline
-#EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
-plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
-#EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-offline
-#EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
-offline
-#EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-offline
-#EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-offline
-#EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-offline
-#EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-offline
