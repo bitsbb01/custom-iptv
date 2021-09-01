@@ -3,20 +3,20 @@ https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
 offline
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-07.dc3.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDRAcXBMu6pLES9Yi-nzwHpQ)/dm/3/x6lvncs/d/live-3.m3u8
+https://stream-06.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDRAcXBMu6pLES9Yi-nzwHpQ)/dm/3/x6lvncs/d/live-3.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
 plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-https://stream-05.ix7.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88o9Ne-X-E6EqQ5zD3MUicf8)/dm/3/x6shkab/d/live-3.m3u8
+https://stream-08.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88o9Ne-X-E6EqQ5zD3MUicf8)/dm/3/x6shkab/d/live-3.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-https://stream-01.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DmsXMHT7qWqH3nDeopjKMPY)/dm/3/x7eo9oe/d/live-2.m3u8
+https://stream-04.dc3.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DmsXMHT7qWqH3nDeopjKMPY)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOCdndi-rSbSlzoLoU5FmTx2uoTuva0DQey6lcI49bu9lqkPeuRa6NpQ4bGrTSbVo1w)/video/538/144/12441835_mp4_h264_aac.mp4
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOGkNyjB2PWp7-e31yEIB1ZJCSKZROZ9k9PSIDKWa475oO2D2Rcng9CfbQI9K3TfAwQ)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-https://stream-07.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpuFbI6uiztNueORW6ekJBKs)/dm/3/x81qb1p/s/live-2.m3u8
+https://stream-04.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpuFbI6uiztNueORW6ekJBKs)/dm/3/x81qb1p/s/live-1.m3u8
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-02.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6xEjWfhyOfcJTVUXz0xO_vI)/dm/3/x7sxle3/d/live-1.m3u8
+https://stream-11.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6xEjWfhyOfcJTVUXz0xO_vI)/dm/3/x7sxle3/d/live-1.m3u8
