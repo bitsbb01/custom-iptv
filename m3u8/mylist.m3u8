@@ -3,23 +3,23 @@ https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
 offline
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-01.dc3.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDTOkV1FmDvio090IDUhQyLM)/dm/3/x6lvncs/d/live-3.m3u8
+https://stream-07.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDTOkV1FmDvio090IDUhQyLM)/dm/3/x6lvncs/d/live-3.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
 plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-https://stream-02.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88iaD6pIN3HB0wDeFEtlFvYI)/dm/3/x6shkab/d/live-3.m3u8
+https://stream-01.ix7.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88iaD6pIN3HB0wDeFEtlFvYI)/dm/3/x6shkab/d/live-3.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-https://stream-05.dc3.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dk20OBjFjUBcQsdMH2iTyns)/dm/3/x7eo9oe/d/live-2.m3u8
+https://stream-03.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dk20OBjFjUBcQsdMH2iTyns)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOOmfzMccsiDZRFYDWdlUUcwLLA8TDEKghgAdAoo1MjEaw1oBRuHezyGNRNttLcrUww)/video/538/144/12441835_mp4_h264_aac.mp4
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOJNLFNtn0IqyiEa0yMwTFvxGC1VqIWZM8GHRtJoJWlhSNLqlmEu3voF22LVYsQfdcQ)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-https://stream-06.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpl_33deUlFmsEuQ8mV7iHMg)/dm/3/x81qb1p/s/live-2.m3u8
+https://stream-12.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpl_33deUlFmsEuQ8mV7iHMg)/dm/3/x81qb1p/s/live-1.m3u8
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-10.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf63zHALf1Vm2BoYZVkBra8Mg)/dm/3/x7sxle3/d/live-1.m3u8
+offline
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -588,8 +588,6 @@ https://live.obslivestream.com:1936/geniostv/ngrp:geniostv_all/playlist.m3u8?DVR
 https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldValleyTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Goldvalleytvcasma/picture?width=320&height=320" group-title="Spanish",Gold Valley TV (Casma) [Not 24/7] [Local]
 https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8
-#EXTINF:-1 tvg-id="GraciaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="Spanish",Gracia TV (720p)
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Spanish",Hamaika Telebista (1080p)
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="Spanish",Hatun TV (720p) [Music]
@@ -626,8 +624,6 @@ http://78.41.83.88:8880/hls/tvixa.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JBN.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JrlArKg.png" group-title="Spanish",JBN (480p)
 https://emisoras.hn:8081/jbn/index.m3u8
-#EXTINF:-1 tvg-id="JN19.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canaljn19tv/picture?width=320&height=320" group-title="Spanish",JN19 (720p) [Religious]
-https://mediastreamm.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="JNETV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JNE.Peru/picture?width=320&height=320" group-title="Spanish",JNE TV [Not 24/7] [Legislative]
 https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
 #EXTINF:-1 tvg-id="Juntos.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UbomgHT.png" group-title="Spanish",Juntos (1080p) [Series]
@@ -1242,8 +1238,6 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleantioquia (720p) [General]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-#EXTINF:-1 tvg-id="Teleantioquia2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleantioquia 2 (720p) [General]
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTINF:-1 tvg-id="Telearuba13.aw" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Spanish",Telearuba 13 (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBendicion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="Spanish",TeleBendicion (720p) [Not 24/7]
@@ -1274,8 +1268,6 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 http://209.91.213.10:8088/play/a00h
 #EXTINF:-1 tvg-id="Telemetro.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Telemetro_2010_logo.png/revision/latest?cb=20181013042937&path-prefix=es" group-title="Spanish",Telemetro (720p)
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="Spanish",Telemicro (720p)
-https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="Spanish",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQezVfVamzd08ywLqOjqVqfOtEL-ZyphG2b0w&usqp=CAU" group-title="Spanish",Telemundo (416p) [General]
