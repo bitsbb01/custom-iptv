@@ -3,23 +3,23 @@ https://linkastream.co/headless?url=https://youtube.com/c/kenyacitizentv/live
 #EXTINF:-1 tvg-name="KBC" tvg-logo="https://i.imgur.com/rcz9MHU.png" group-title="Kenya",KBC
 offline
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.imgur.com/qsR404z.png" group-title="Kenya",K24
-https://stream-03.ix7.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDeGHUq04dqZnUXnXggTdcww)/dm/3/x6lvncs/d/live-3.m3u8
+https://stream-05.dc3.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDeGHUq04dqZnUXnXggTdcww)/dm/3/x6lvncs/d/live-3.m3u8
 #EXTINF:-1 tvg-name="KTN Home" tvg-logo="https://i.imgur.com/XsI7njG.jpg" group-title="Kenya",KTN Home
 offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
 plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-https://stream-09.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88siExI0Crl-EAAuRv3BoHJ8)/dm/3/x6shkab/d/live-3.m3u8
+https://stream-06.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88siExI0Crl-EAAuRv3BoHJ8)/dm/3/x6shkab/d/live-3.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
 offline
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOD_dRKIlktWamki5z9x51Y2gKDYsSlhFlUaUbi-c2Od3Rx04n7wBwPEPyZ3pcM9BOA)/video/538/144/12441835_mp4_h264_aac.mp4
+offline
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-https://stream-06.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpvCTCsM6aP2ZKtqZKM5YaNg)/dm/3/x81qb1p/s/live-1.m3u8
+offline
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-03.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6xOW8WHtKARAQMMkhW-5Yw4)/dm/3/x7sxle3/d/live-1.m3u8
+offline
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
