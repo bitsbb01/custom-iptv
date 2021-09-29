@@ -9,17 +9,17 @@ offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
 plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-https://stream-12.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88myk2KJMyReEJJtn8fpKbnI)/dm/3/x6shkab/d/live-3.m3u8
+https://stream-06.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88myk2KJMyReEJJtn8fpKbnI)/dm/3/x6shkab/d/live-3.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-https://stream-01.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dluc5QlWnKk3Bcdm8-DFicA)/dm/3/x7eo9oe/d/live-2.m3u8
+https://stream-05.dc3.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dluc5QlWnKk3Bcdm8-DFicA)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOCUkUcBYjhn0fJlcCF8PY2v2Ihhv66UWgJ0X93pcW4UMigcO_mPgbAIzZQaHwuxHGw)/video/538/144/12441835_mp4_h264_aac.mp4
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOCfLscLuyWmO7fobhaI2ThbsWtJ9OFcohGqLRj3B1fBfRSNoE1WruecEOY8jMu86aA)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
-https://stream-04.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpkBOB7X4PtSrxfP2kFXi8IM)/dm/3/x81qb1p/s/live-1.m3u8
+https://stream-02.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpkBOB7X4PtSrxfP2kFXi8IM)/dm/3/x81qb1p/s/live-1.m3u8
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-01.dc3.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6xsh2x8l3boC_u0ks9kIof0)/dm/3/x7sxle3/d/live-1.m3u8
+https://stream-02.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf6xsh2x8l3boC_u0ks9kIof0)/dm/3/x7sxle3/d/live-1.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -544,8 +544,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecotel.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Ecotel (720p) [Not 24/7]
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-1 tvg-id="EDNTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Spanish",EDN TV (1080p)
-https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/eduvision-2592.jpg" group-title="Spanish",Eduvision (720p) [Education]
 http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
 #EXTINF:-1 tvg-id="EITB.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Spanish",EITB (360p) [Local]
@@ -842,6 +840,8 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 http://38.131.11.9:1080/play/a0dh
 #EXTINF:-1 tvg-id="PeruvianRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://peruvianradiotv.pe/wp-content/uploads/2021/03/Logo-Peruvian-6.png" group-title="Spanish",PeruvianRadio TV (720p) [Not 24/7] [Local]
 https://stmv.panel.grupolimalive.com/peruviantv/peruviantv/playlist.m3u8
+#EXTINF:-1 tvg-id="PH.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Spanish",PH (720p) [Not 24/7]
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PintanaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-tRkb11g6GOI/WoBPJm9cd4I/AAAAAAAAgyc/lrR7FPg27aoiQryOJXRQGuG8FLpKoXxBQCK8BGAs/s132/2018-02-11.png" group-title="Spanish",Pintana TV (720p)
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVBagua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/planeatvperu/picture?width=320&height=320" group-title="Spanish",Planeta TV Bagua (720p) [Not 24/7] [Local]
@@ -1502,6 +1502,8 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 #EXTINF:-1 tvg-id="UCI.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/uncanalinteligente/picture?width=320&height=320" group-title="Spanish",UCI (1080p) [General]
 http://170.79.102.223/UCI/index.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Spanish",UCL TV (720p) [Not 24/7]
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 #EXTINF:-1 tvg-id="UCSG.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="Spanish",UCSG (1080p) [Not 24/7]
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
 #EXTINF:-1 tvg-id="UESTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Spanish",UESTV (720p)
