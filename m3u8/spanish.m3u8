@@ -620,8 +620,6 @@ https://iptv.dc-team.com/query?url=https://www.dailymotion.com/PanamericanaPTV
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PBOPeru/picture?width=320&height=320" group-title="Spanish",PBO Digital (720p) [Not 24/7] [News]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="Spanish",People are Awesome (720p) [Entertainment]
-https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="Spanish",Pequeradio (720p) [Not 24/7]
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Spanish",Perú Channel (430p) [Not 24/7]
@@ -936,6 +934,8 @@ https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 https://mediastreamm.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="QuattroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="Spanish",Quattro TV (720p) [Not 24/7] [Local]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
+#EXTINF:-1 tvg-id="QuattroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="Spanish",Quattro TV (720) (720p) [Not 24/7] [Local]
+https://iptv.dc-team.com/query?url=https://www.twitch.tv/quatrotvgo
 #EXTINF:-1 tvg-id="Quillavision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/459651607763457/picture?width=320&height=320" group-title="Spanish",Quillavision (Cuzco) [Not 24/7] [Local]
 http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:-1 tvg-id="QuinceUCR.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hRnPcP.png" group-title="Spanish",Quince UCR (Universidad de Costa Rica) (720p) [Not 24/7]
