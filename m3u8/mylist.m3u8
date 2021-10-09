@@ -9,17 +9,17 @@ offline
 #EXTINF:-1 tvg-name="KTN News" tvg-logo="https://i.imgur.com/9nsQkNC.jpg" group-title="Kenya",KTN News
 plugin://plugin.video.youtube/play/?channel_id=UCKVsdeoHExltrWMuK0hOWmg&live=1
 #EXTINF:-1 tvg-name="NTV Kenya" tvg-logo="https://i.imgur.com/Z6TBfcY.png" group-title="Kenya",NTV Kenya
-https://stream-01.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88p87gzL-eVl-iUVitUShaqY)/dm/3/x6shkab/d/live-3.m3u8
+https://stream-10.dc3.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88p87gzL-eVl-iUVitUShaqY)/dm/3/x6shkab/d/live-3.m3u8
 #EXTINF:-1 tvg-name="Ebru Kenya" tvg-logo="https://i.imgur.com/IykRifY.png" group-title="Kenya",Ebru Kenya
 offline
 #EXTINF:-1 tvg-name="Spice fm" tvg-logo="https://i.imgur.com/3hfioy3.png" group-title="Kenya",Spice fm
-https://stream-11.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dk9xlBmsNmP0EXb-1FEN818)/dm/3/x7eo9oe/d/live-2.m3u8
+https://stream-08.ix7.dailymotion.com/sec(UcClT0X5V1hUlWimuq39Dk9xlBmsNmP0EXb-1FEN818)/dm/3/x7eo9oe/d/live-2.m3u8
 #EXTINF:-1 tvg-name="Vibes" tvg-logo="https://i.imgur.com/UvsT89j.jpg" group-title="Kenya",Vibes
-https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOAsKT5sbC_8vWeHUlTjwkBAlXohKGD8FgAbVHf9F4_omQmiPboyGmWBk18YSRWu9EQ)/video/538/144/12441835_mp4_h264_aac.mp4
+https://proxy-035.ix7.dailymotion.com/sec(2Ii-xRJSVdr-_1SJXPMVOCb6dxnIQbujpad8uT0FeMOaaPwb2bzsDnZoj0QRvNFMre52LbnJytE219ZopuIDxg)/video/538/144/12441835_mp4_h264_aac.mp4
 #EXTINF:-1 tvg-name="Inooro" tvg-logo="https://i.imgur.com/eeFnkQj.png" group-title="Kenya",Inooro
 offline
 #EXTINF:-1 tvg-name="Switch TV" tvg-logo="https://i.imgur.com/GOSVees.png" group-title="Kenya",Switch TV
-https://stream-04.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf61HHEHSxPlU7Gi5fN8NFTBw)/dm/3/x7sxle3/d/live-1.m3u8
+https://stream-08.ix7.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf61HHEHSxPlU7Gi5fN8NFTBw)/dm/3/x7sxle3/d/live-1.m3u8
 
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Fashion TV",Fashion TV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
@@ -380,8 +380,6 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 https://iptv-all.lanesh4d0w.codes/colombia/canal-12-valledupar.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="Spanish",Canal 12 (XETW-TDT) (1080p) [Local]
 https://cdn87.theus6tv.tk/locals/SanDiego/xewt-tdt.m3u8
-#EXTINF:-1 tvg-id="Canal13Sinart.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://costaricamedios.cr/wp-content/uploads/2018/11/logo-header-sinartcr.png" group-title="Spanish",Canal 13 Sinart (720p)
-http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x7vh8g3
 #EXTINF:-1 tvg-id="Canal21.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="Spanish",Canal 21 (720p) [Not 24/7]
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="Spanish",Canal 21 (720p) [Not 24/7]
@@ -644,6 +642,8 @@ https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 https://tv.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com8YPXrcX.png" group-title="Spanish",Hechos Ecuador (480p)
 http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-id="HilandoFino.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="Spanish",Hilando Fino (1080p)
+http://45.5.8.78:8000/play/a069
 #EXTINF:-1 tvg-id="HiperTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" group-title="Spanish",HiperTV (720p)
 https://inliveserver.com:1936/11010/11010/playlist.m3u8
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Spanish",Hipódromo de las Américas (480p)
@@ -1200,6 +1200,8 @@ http://free.fullspeed.tv/query?url=https://www.twitch.tv/radiolibertadarequipa
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioPachatusan.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/1260738527355956/picture?width=320&height=320" group-title="Spanish",Radio Pachatusan (Cuzco) [Not 24/7] [Local]
 http://v4.tustreaming.cl/pachatuzan/index.m3u8
+#EXTINF:-1 tvg-id="RadioRitmo.us" tvg-country="US" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Radio Ritmo (1080p) [Not 24/7] [Music]
+https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Spanish",Radio San Borja TV (720p) [Not 24/7] [Music]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSistema.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosistema/picture?width=320&height=320" group-title="Spanish",Radio Sistema (Ica) [Not 24/7] [Local]
@@ -1296,8 +1298,6 @@ https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="SomosTelevisionChimbote.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/somostelevision/picture?width=320&height=320" group-title="Spanish",Somos Televisión (Chimbote) [Not 24/7] [Local]
 https://query-streamlink-us.herokuapp.com/iptv-query?streaming-ip=https://www.pscp.tv/w/1OwGWVYpDOWKQ
-#EXTINF:-1 tvg-id="SoniderosTV.us" tvg-country="US;MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/www.sonideros.tv/picture?width=320&height=320" group-title="Spanish",Sonideros TV (360p) [Music]
-https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8
 #EXTINF:-1 tvg-id="SBN.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h9Gxavk.png" group-title="Spanish",SonLife Broadcasting (SBN) (720p) [Religious]
 https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/master.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="Spanish",Sophia TV (720p)
@@ -1316,6 +1316,8 @@ https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="Spanish",Super TV 55 (Santiago) (720p)
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="Spanish",Suram TV (1080p) [Not 24/7] [Local]
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SurTVIlo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" group-title="Spanish",SurTV (Ilo) (720p) [Not 24/7] [Local]
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" group-title="Spanish",T5 Satelital (540p) [Not 24/7]
