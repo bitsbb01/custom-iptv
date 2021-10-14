@@ -370,8 +370,6 @@ http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="Elche7TV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="Spanish",Elche 7 TV (1080p) [Not 24/7]
 https://streaming.elche7tv.es/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="ElOnce.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",ElOnce (1080p)
-https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_encuentro_m.png" group-title="Spanish",Encuentro [Not 24/7] [General]
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/EnerGeek.chile/picture?width=300&height=300" group-title="Spanish",EnerGeek (720p) [Entertainment]
@@ -1154,8 +1152,6 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="Teleamiga.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleamiga (Bogotà | Cundinamarca) (480p) [Local]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleantioquia (720p) [General]
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTINF:-1 tvg-id="Teleantioquia2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleantioquia 2 (720p) [Not 24/7] [General]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTINF:-1 tvg-id="TeleBendicion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="Spanish",TeleBendicion (720p) [Not 24/7]
@@ -1186,6 +1182,8 @@ http://209.91.213.10:8088/play/a00h
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="Spanish",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTAZTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pb0b7A4.png" group-title="Spanish",Telemundo 40 Arizona (1080p) [Not 24/7] [General]
+https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 #EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="Spanish",Telemúsica TV (720p) [Music]
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="Spanish",Telenord 8 (1080p) [Not 24/7]
@@ -1418,8 +1416,6 @@ https://srv6.zcast.com.br/virgennatividad/virgennatividad/playlist.m3u8
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 tvg-id="VisionNoticiasPeruVNP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320" group-title="Spanish",Visión Noticias Perú (VNP) (720p) [Not 24/7] [News]
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320" group-title="Spanish",Visión TV Musica (720p) [Music]
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="WaldivisionInternacional.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o5TnL2b.png" group-title="Spanish",Waldivisión Internacional (720p) [Not 24/7]
 https://tvdatta.com:3934/live/waldivisionlive.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=320&height=320" group-title="Spanish",Willax (480p) [Not 24/7] [General]
