@@ -186,8 +186,6 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 https://media2.cdnlayer.biz:8081/8014/index.m3u8
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Spanish",Canal 44 Chihuahua (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Spanish",Canal 44 Ciudad Juárez (720p)
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-id="XHBJTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Canal45Tijuana.png" group-title="Spanish",Canal 45 (XHBJ-TDT) (1080p) [Local]
 https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-id="CanalAme47.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="Spanish",Canal Amé 47 (720p)
@@ -370,6 +368,8 @@ http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="Elche7TV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="Spanish",Elche 7 TV (1080p) [Not 24/7]
 https://streaming.elche7tv.es/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="ElOnce.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",ElOnce (1080p) [Not 24/7]
+https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_encuentro_m.png" group-title="Spanish",Encuentro [Not 24/7] [General]
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC1zLDoKL-eKmd_K7qkUZ-ow/live
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/EnerGeek.chile/picture?width=300&height=300" group-title="Spanish",EnerGeek (720p) [Entertainment]
@@ -1152,6 +1152,8 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="Teleamiga.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleamiga (Bogotà | Cundinamarca) (480p) [Local]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleantioquia (720p) [Not 24/7] [General]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTINF:-1 tvg-id="Teleantioquia2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Teleantioquia 2 (720p) [Not 24/7] [General]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTINF:-1 tvg-id="TeleBendicion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="Spanish",TeleBendicion (720p) [Not 24/7]
@@ -1381,7 +1383,7 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-id="Unitel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Unitelperu/picture?width=320&height=320" group-title="Spanish",Unitel (Huancayo) (480p) [Not 24/7] [Local]
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="UATV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png" group-title="Spanish",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
-https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversitariaTVChanchamayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/universitariatvchanchamayo/picture?width=320&height=320" group-title="Spanish",Universitaria TV (Chanchamayo) (480p) [Not 24/7] [Local]
 https://tvdatta.com:3670/live/universitariatvlive.m3u8
 #EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Spanish",UNO PLAY (720p) [Not 24/7] [Entertainment]
@@ -1430,8 +1432,6 @@ https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/playlist.m3u8
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Zaracay TV (720p) [Local]
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Spanish",Zee Mundo (720p) [Movies]
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="Zol106.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="Spanish",Zol106 (720p)
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="Spanish",ZTV (480p) [Not 24/7]
