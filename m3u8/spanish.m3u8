@@ -86,8 +86,6 @@ https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 https://v4.tustreaming.cl/atmtv/live1/index.m3u8
 #EXTINF:-1 tvg-id="ATV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-atv-1694.jpg" group-title="Spanish",ATV (Soacha | Cundinamarca) [Not 24/7] [Local]
 https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 tvg-id="AuténticaTelevisión.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="Spanish",Auténtica Televisión (720p) [Local]
-https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="AVCHD.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",AVC HD (Monte Caseros | Corrientes) (360p) [Not 24/7] [Local]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Spanish",Avivamiento TV (720p) [Not 24/7] [Religious]
