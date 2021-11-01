@@ -286,8 +286,6 @@ https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/playlist.m3u8
 https://live.canalantigua.tv/CanalAntigua/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalAntiguaGuatemala.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Canal Antigua Guatemala (1080p)
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
-#EXTINF:-1 tvg-id="CanalC.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Canal C (Córdoba | Provincia de Córdoba) (720p) [Local]
-http://free.fullspeed.tv/query?url=https://www.twitch.tv/canalccordoba
 #EXTINF:-1 tvg-id="CanalC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="Spanish",Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="Spanish",Canal Capital (720p) [Not 24/7] [General]
@@ -490,7 +488,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecotel.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Ecotel (720p) [Not 24/7]
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Ecuador TV
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/357.png" group-title="Spanish",Ecuador TV
 http://45.179.140.242:8000/play/a0jp
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Spanish",EDN TV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
@@ -828,8 +826,6 @@ https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
 http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
 #EXTINF:-1 tvg-id="MariaVisionMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bLSCeSB.png" group-title="Spanish",María Visión Mexico (1080p) [Not 24/7] [Religious]
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MASPlusTVChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU" group-title="Spanish",MÁS+.TV Chile (720p)
-https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" group-title="Spanish",Master TV (Tarapoto) [Not 24/7] [Local]
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="Spanish",MaticesTV (Cañete) [Not 24/7] [Local]
@@ -970,7 +966,7 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCgR0st4ZLABi
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Spanish",Perú Channel (720p) [Not 24/7] [General]
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Peru Magico [General]
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/263.png" group-title="Spanish",Peru Magico [General]
 http://38.131.11.9:1080/play/a0dh
 #EXTINF:-1 tvg-id="PeruvianRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://peruvianradiotv.pe/wp-content/uploads/2021/03/Logo-Peruvian-6.png" group-title="Spanish",PeruvianRadio TV (720p) [Not 24/7] [Local]
 https://stmv.panel.grupolimalive.com/peruviantv/peruviantv/playlist.m3u8
