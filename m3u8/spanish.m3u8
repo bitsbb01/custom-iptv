@@ -50,6 +50,8 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" user-agent="iPhone" group-title="Spanish",A24 [News]
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Spanish",A Son de Salsa (720p) [Not 24/7] [Music]
+https://stmv1.mipaneltv.com/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Spanish",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Spanish",ABTelevision (480p) [Not 24/7]
